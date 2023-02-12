@@ -1,5 +1,3 @@
-NOTE*** this repo only has the front-end code for the website, the back end is omitted for security reasons, however it is built with node.js and connects with firebase to add user authenication to the app
-
 ## Inspiration
 I came to this hackathon with the sole purpose of learning more about front-end development. I have been avoiding learning front-end Javascript frameworks, so I promised to learn them this weekend. I found that no challenges really cared about the user interface so I decided to try my best to create the most useless hack, with the most maximally complicated method I could think of.
 ## What it does
